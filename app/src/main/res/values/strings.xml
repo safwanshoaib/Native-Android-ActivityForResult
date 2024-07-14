@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity For Result</string>
+    <string name="button">Button</string>
+    <string name="hello_safwan">Hello Safwan 👋</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="hint">hint</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="en">Enter Name</string>
+    <string name="BtnSecondAct2">Button</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="submit_data">Submit Data</string>
+</resources>
